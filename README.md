@@ -1,7 +1,7 @@
 # Color Marble Sorter
 ![Completed Marble Sorter](images/Final_Design.jpg)
   
-An automated marble sorting system that identifies marble colors using a TEPT5600 light sensor and sorts them into designated bins using a dual-stepper-motor mechanism. This project combines embedded programming, sensor integration, motor control, and mechanical design to automate the sorting process.
+An proof of concept for an automated marble sorting system that identifies marble colors using a TEPT5600 light sensor and sorts them into designated bins using a dual-stepper-motor mechanism. This project combines embedded programming, sensor integration, motor control, and mechanical design to automate the sorting process.
 
 ## Overview
 
