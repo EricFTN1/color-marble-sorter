@@ -1,5 +1,6 @@
 # Color Marble Sorter
-
+![Completed Marble Sorter](images/Final_Design.jpg)
+  
 An automated marble sorting system that identifies marble colors using a TEPT5600 light sensor and sorts them into designated bins using a dual-stepper-motor mechanism. This project combines embedded programming, sensor integration, motor control, and mechanical design to automate the sorting process.
 
 ## Overview
@@ -81,9 +82,9 @@ Key contributions included:
 
 ## Media
 - Tinkercad Designs: [Tinkercad Project Link](https://www.tinkercad.com/things/7dwq98rLiMK-gear-hopper-v1?sharecode=MvUlLvu0fAuAnmDEiR9_d43d94QoZzh4k7KxWvp-yIs)
-- The STL files used for fabrication can be found in the `cad/` directory.
+- The STL files used for early prototyping can be found in the `cad/` directory.
 - The other images files will be in `images/
-- ![Completed Marble Sorter](images/Final_Design.jpg)
+
 
 ## Authors
 - Eric Nguyen
