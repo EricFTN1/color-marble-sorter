@@ -16,7 +16,7 @@ Working alongside Adam Nguyen, I contributed to the design, development, and tes
 
 Key contributions included:
 
-- Designed custom 3D-printed components in Tinkercad to support the marble staging, sorting, and actuation mechanisms.
+- Designed most of early prototype custom 3D-printed components in Tinkercad to support the marble staging, sorting, and actuation mechanisms.
 - Evaluated part tolerances and mechanical fit to ensure reliable movement and alignment between printed components.
 - Assisted in developing and refining the gravity-fed marble holding system.
 - Calibrated and tested both stepper motors to achieve consistent and repeatable operation.
@@ -82,10 +82,10 @@ Key contributions included:
 ## Media
 - Tinkercad Designs: [Tinkercad Project Link](https://www.tinkercad.com/things/7dwq98rLiMK-gear-hopper-v1?sharecode=MvUlLvu0fAuAnmDEiR9_d43d94QoZzh4k7KxWvp-yIs)
 - The STL files used for fabrication can be found in the `cad/` directory.
+- ![Completed Marble Sorter](images/FinalDesign.jpg)
 
 ## Authors
 - Eric Nguyen
 - Adam Nguyen
 - John Reade Corr
 - Dejan Gardner
-
